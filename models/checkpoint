@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/leemeng/Documents/Code/cat-recognition-app/models/model.ckpt"
+all_model_checkpoint_paths: "/Users/leemeng/Documents/Code/cat-recognition-app/models/model.ckpt"

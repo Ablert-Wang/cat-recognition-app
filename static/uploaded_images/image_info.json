@@ -6077,6 +6077,12 @@
         "prob": 0.9719846844673157,
         "y_pred": 1
     },
+    "cutecat.jpg": {
+        "label": "cat",
+        "pred": "cat",
+        "prob": 0.9727867841720581,
+        "y_pred": 1
+    },
     "zoe-heart-cat-2.jpg": {
         "label": "unknown",
         "pred": "cat",

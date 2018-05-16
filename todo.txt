@@ -1,0 +1,48 @@
+用新拍的照片
+更新README上 demo 的圖
+
+
+加快loading 速度
+Warning: Your slug size exceeds our soft limit (329 MB)
+which may affect boot time.
+
+增加 arg設定切換AWS
+清楚的log
+
+user feedback hover 到圖片的時候變數
+
+
+將image_info 寫成一個db obj
+
+
+使用者選擇檔案以後顯示檔案名稱在下面, 提示使用者上傳
+或者flash (now pressing Upload)
+
+縮小圖
+https://mikeboers.github.io/Flask-Images/
+
+label = pred -> 圖片右上角打勾
+
+每次 deploy 隨機選AWS S3 的一些圖片來render
+database, 讓heroku每次重新啟動顯示最近20張照片
+
+飛ascii code 的檔案的處理
+
+如何判斷不同黨名同樣內容？
+
+
+backend 改成 google drive / ?!?!
+
+
+image 建立class
+ prediction
+ label
+ cat_prob
+ dog_prob
+
+ 共同var: 幾張照片
+
+
+paging, 把照片存到 google OR AWS, 讀取db / google service 來應付get service
+Docker更新, 更新 github app 連結？
+改善捲軸
